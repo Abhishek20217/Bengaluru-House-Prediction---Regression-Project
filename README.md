@@ -33,6 +33,9 @@ Tested different Regression Models to see which is best for house price predicti
 ## Result
 Linear Regression performed better than Lasso Regression and Decision Tree Classifier with an accuracy of 81.9% compared to 68.7% and 72.4% for Lasso Regression and Decision Tree Classifier respectively.
 
+![Bengaluru House Price Prediction using Regression](![Bengaluru house price using different regression models](https://github.com/user-attachments/assets/bd91f389-aeaa-4e4f-93e6-90c76a49b532)
+
+
 ## Limitations
 * There are other external factors like market trends and amenities which is not in the dataset so the prices may differ with these factors.
 * Some features like 'Total_sqft' are inconsistently formatted and we did assumption with the data.
@@ -42,4 +45,6 @@ Linear Regression performed better than Lasso Regression and Decision Tree Class
 * Build a web interface to show the predictions using python flash server with the help of PyCharm or Streamlit.
 
 ## Jupyter Notebook File
-<a href='
+<a href='https://github.com/Abhishek20217/Bengaluru-House-Prediction---Regression-Project/blob/main/Bengaluru%20House%20Prediction%20-%20Regression%20Project.ipynb'> Bengaluru House Price Prediction using Regression </a>
+
+
