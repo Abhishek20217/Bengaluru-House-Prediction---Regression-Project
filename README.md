@@ -4,6 +4,7 @@ This project focuses on predicting house prices in Bengaluru using regression te
 
 ## Dataset used
 <a href= "https://github.com/Abhishek20217/Bengaluru-House-Prediction---Regression-Project/blob/main/Bengaluru_House_Data.csv"> Bengaluru House Pricing Data </a>
+
 This dataset contains information about Bengaluru, India house pricing. It has columns such as:
 1) Location - Area of the property in bengaluru.
 2) Size - Number of Bedrooms (eg 2BHK, 3BHK)
